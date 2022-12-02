@@ -1,0 +1,46 @@
+Only in /root/cust/linux-5.19.9: .Module.symvers.cmd
+Files /root/cust/linux-5.19.9/.config and /home/slimeybutter/cust/linux-5.19.14/.config differ
+Only in /root/cust/linux-5.19.9: .modules-only.symvers.cmd
+Files /root/cust/linux-5.19.9/.modules.order.cmd and /home/slimeybutter/cust/linux-5.19.14/.modules.order.cmd differ
+Only in /root/cust/linux-5.19.9: .tmp_System.map
+Only in /root/cust/linux-5.19.9: .tmp_vmlinux.kallsyms1
+Only in /root/cust/linux-5.19.9: .tmp_vmlinux.kallsyms1.S
+Only in /root/cust/linux-5.19.9: .tmp_vmlinux.kallsyms1.o
+Only in /root/cust/linux-5.19.9: .tmp_vmlinux.kallsyms2
+Only in /root/cust/linux-5.19.9: .tmp_vmlinux.kallsyms2.S
+Only in /root/cust/linux-5.19.9: .tmp_vmlinux.kallsyms2.o
+Only in /root/cust/linux-5.19.9: .vmlinux.cmd
+Files /root/cust/linux-5.19.9/.vmlinux.export.o and /home/slimeybutter/cust/linux-5.19.14/.vmlinux.export.o differ
+Files /root/cust/linux-5.19.9/.vmlinux.o.cmd and /home/slimeybutter/cust/linux-5.19.14/.vmlinux.o.cmd differ
+Common subdirectories: /root/cust/linux-5.19.9/Documentation and /home/slimeybutter/cust/linux-5.19.14/Documentation
+Common subdirectories: /root/cust/linux-5.19.9/LICENSES and /home/slimeybutter/cust/linux-5.19.14/LICENSES
+Files /root/cust/linux-5.19.9/Makefile and /home/slimeybutter/cust/linux-5.19.14/Makefile differ
+Only in /root/cust/linux-5.19.9: Module.symvers
+Only in /root/cust/linux-5.19.9: System.map
+Common subdirectories: /root/cust/linux-5.19.9/arch and /home/slimeybutter/cust/linux-5.19.14/arch
+Common subdirectories: /root/cust/linux-5.19.9/block and /home/slimeybutter/cust/linux-5.19.14/block
+Common subdirectories: /root/cust/linux-5.19.9/certs and /home/slimeybutter/cust/linux-5.19.14/certs
+Common subdirectories: /root/cust/linux-5.19.9/crypto and /home/slimeybutter/cust/linux-5.19.14/crypto
+Common subdirectories: /root/cust/linux-5.19.9/drivers and /home/slimeybutter/cust/linux-5.19.14/drivers
+Common subdirectories: /root/cust/linux-5.19.9/fs and /home/slimeybutter/cust/linux-5.19.14/fs
+Only in /root/cust/linux-5.19.9: hello_syscall
+Common subdirectories: /root/cust/linux-5.19.9/include and /home/slimeybutter/cust/linux-5.19.14/include
+Common subdirectories: /root/cust/linux-5.19.9/init and /home/slimeybutter/cust/linux-5.19.14/init
+Common subdirectories: /root/cust/linux-5.19.9/io_uring and /home/slimeybutter/cust/linux-5.19.14/io_uring
+Common subdirectories: /root/cust/linux-5.19.9/ipc and /home/slimeybutter/cust/linux-5.19.14/ipc
+Common subdirectories: /root/cust/linux-5.19.9/kernel and /home/slimeybutter/cust/linux-5.19.14/kernel
+Only in /home/slimeybutter/cust/linux-5.19.14: kernel_2d_memcpy_syscall
+Common subdirectories: /root/cust/linux-5.19.9/lib and /home/slimeybutter/cust/linux-5.19.14/lib
+Common subdirectories: /root/cust/linux-5.19.9/mm and /home/slimeybutter/cust/linux-5.19.14/mm
+Only in /root/cust/linux-5.19.9: modules-only.symvers
+Common subdirectories: /root/cust/linux-5.19.9/net and /home/slimeybutter/cust/linux-5.19.14/net
+Common subdirectories: /root/cust/linux-5.19.9/samples and /home/slimeybutter/cust/linux-5.19.14/samples
+Common subdirectories: /root/cust/linux-5.19.9/scripts and /home/slimeybutter/cust/linux-5.19.14/scripts
+Common subdirectories: /root/cust/linux-5.19.9/security and /home/slimeybutter/cust/linux-5.19.14/security
+Common subdirectories: /root/cust/linux-5.19.9/sound and /home/slimeybutter/cust/linux-5.19.14/sound
+Common subdirectories: /root/cust/linux-5.19.9/tools and /home/slimeybutter/cust/linux-5.19.14/tools
+Common subdirectories: /root/cust/linux-5.19.9/usr and /home/slimeybutter/cust/linux-5.19.14/usr
+Common subdirectories: /root/cust/linux-5.19.9/virt and /home/slimeybutter/cust/linux-5.19.14/virt
+Only in /root/cust/linux-5.19.9: vmlinux
+Files /root/cust/linux-5.19.9/vmlinux.o and /home/slimeybutter/cust/linux-5.19.14/vmlinux.o differ
+Files /root/cust/linux-5.19.9/vmlinux.symvers and /home/slimeybutter/cust/linux-5.19.14/vmlinux.symvers differ
